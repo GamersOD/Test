@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Projet</string>
+    <string name="Jouer">Jouer</string>
+    <string name="retour">Retour</string>
+    <string name="Mainmenue1">Géographie</string>
+    <string name="Mainmenue2">Film/série</string>
+    <string name="Mainmenue3">Culture Générale</string>
+    <string name="Mainmenue4">Sports</string>
+    <string name="Mainmenue5">Choississez une categorie</string>
+    <string name="Gamename">Quizzmania</string>
+    <string name="Reponse1">Reponse 1</string>
+    <string name="Reponse2">Reponse 2</string>
+    <string name="Reponse3">Reponse 3</string>
+    <string name="Score">Score : 0</string>
+    <string name="Question">Question</string>
+    <string name="GameDesign1">Design</string>
+</resources>
